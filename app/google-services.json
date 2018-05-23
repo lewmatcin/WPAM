@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "959239933505",
+    "firebase_url": "https://wynikionline-fee1e.firebaseio.com",
+    "project_id": "wynikionline-fee1e",
+    "storage_bucket": "wynikionline-fee1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959239933505:android:c9afa3b384a26347",
+        "android_client_info": {
+          "package_name": "marcin.wynikionline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959239933505-s7hf7ekh2bbd93gasmvck8uesh2638mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "marcin.wynikionline",
+            "certificate_hash": "e166ff124d9bccaa5ce34f4587096321c711e543"
+          }
+        },
+        {
+          "client_id": "959239933505-14tjl5v3pg04dnamce2oajnf5914qtjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZRMpsTUpfWyDvYApqdVQTTw7ptHfPuOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959239933505-14tjl5v3pg04dnamce2oajnf5914qtjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
